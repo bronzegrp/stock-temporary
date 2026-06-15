@@ -1,7 +1,7 @@
 import requests
 import json
 
-api_key = 'CMAG9Q86Y425F8XY'
+api_key = 'xxxxxxxxxxx'
 stock_of_choice = 'TSLA'
 
 url = f'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol={stock_of_choice}&apikey={api_key}'
